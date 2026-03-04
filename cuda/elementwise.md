@@ -1,3 +1,7 @@
+---
+layout: default
+title: CUDA elementwise add
+---
 ### cuda add kernel
 ```
 #include <iostream>
